@@ -1,0 +1,2 @@
+REDIS_URL = redis://[username]:[password]@[host]:[port]
+PRIV_KEYFILE = [path to private key file]
